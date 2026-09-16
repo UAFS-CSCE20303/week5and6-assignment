@@ -1,0 +1,24 @@
+{
+  "name": "week5and6-assignment",
+  "version": "1.0.0",
+  "description": "### Objective:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UAFS-CSCE20303/week5and6-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UAFS-CSCE20303/week5and6-assignment/issues"
+  },
+  "homepage": "https://github.com/UAFS-CSCE20303/week5and6-assignment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
